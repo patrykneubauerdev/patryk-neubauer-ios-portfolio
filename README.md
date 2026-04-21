@@ -77,9 +77,9 @@ A community-driven platform for urban explorers. Users browse a map of submitted
 A clean simulation of the in-restaurant ordering experience built in Swift and SwiftUI. You walk in, open the app, choose your table number, browse the menu, and place your order. Menu data loads from a local JSON file - no backend required. Built with full localization in 🇬🇧 English and 🇵🇱 Polish.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/patrykneubauerdev/Foodloop/main/foodloop-repo-assets/iphone-screen-foodloop-01.png" width="250" title="Table selection">&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/patrykneubauerdev/Foodloop/main/foodloop-repo-assets/iphone-screen-foodloop-06.gif" width="250" title="Table selection">&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/patrykneubauerdev/Foodloop/main/foodloop-repo-assets/iphone-screen-foodloop-02.png" width="250" title="Cart">&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/patrykneubauerdev/Foodloop/main/foodloop-repo-assets/iphone-screen-foodloop-04.png" width="250" title="Order history">
+  <img src="https://raw.githubusercontent.com/patrykneubauerdev/Foodloop/main/foodloop-repo-assets/iphone-screen-foodloop-05.gif" width="250" title="Order history">
 </p>
 
 <details>
