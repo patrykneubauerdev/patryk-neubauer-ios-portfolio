@@ -1,8 +1,10 @@
 <div align="center">
 
 # Patryk Neubauer
+---
+### Portfolio
+---
 ### iOS Developer · Swift · SwiftUI
-#### *portfolio*
 
 [![Email](https://img.shields.io/badge/patrykneubauerdev%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:patrykneubauerdev@gmail.com)
 &nbsp;
