@@ -33,8 +33,8 @@ A community-driven platform for urban explorers. Users browse a map of submitted
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/patrykneubauerdev/Eksplorator/main/eksplorator-repo-assets/iphone-screen-eksplorator-04.png" width="250" title="Browse locations">&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/patrykneubauerdev/Eksplorator/main/eksplorator-repo-assets/iphone-screen-eksplorator-05.png" width="250" title="Location detail">&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/patrykneubauerdev/Eksplorator/main/eksplorator-repo-assets/iphone-screen-eksplorator-08.png" width="250" title="Add a location">
+  <img src="https://raw.githubusercontent.com/patrykneubauerdev/Eksplorator/main/eksplorator-repo-assets/iphone-screen-eksplorator-07.png" width="250" title="Location detail">&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/patrykneubauerdev/Eksplorator/main/eksplorator-repo-assets/iphone-screen-eksplorator-09.png" width="250" title="Add a location">
 </p>
 
 <details>
