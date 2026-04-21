@@ -2,7 +2,6 @@
 
 # *Portfolio*
 ## Patryk Neubauer
----
 ### iOS Developer · Swift · SwiftUI
 
 [![Email](https://img.shields.io/badge/patrykneubauerdev%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:patrykneubauerdev@gmail.com)
