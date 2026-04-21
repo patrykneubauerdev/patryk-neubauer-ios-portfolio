@@ -1,9 +1,8 @@
 <div align="center">
 
-# iOS Development Portfolio
-
 # Patryk Neubauer
 ### iOS Developer · Swift · SwiftUI
+#### *portfolio*
 
 [![Email](https://img.shields.io/badge/patrykneubauerdev%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:patrykneubauerdev@gmail.com)
 &nbsp;
@@ -27,7 +26,7 @@ I build iOS apps in Swift and SwiftUI — clean architecture, thoughtful UX, and
 
 ---
 
-### <img src="https://raw.githubusercontent.com/patrykneubauerdev/Eksplorator/main/eksplorator-repo-assets/eksplorator-icon-repo.png" width="24" valign="middle"> &nbsp;[Eksplorator](https://github.com/patrykneubauerdev/Eksplorator) &nbsp;[![App Store](https://img.shields.io/badge/Live_on_App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/pl/app/eksplorator/id6744850338)
+### <img src="https://raw.githubusercontent.com/patrykneubauerdev/Eksplorator/main/eksplorator-repo-assets/eksplorator-icon-repo.png" width="36" valign="middle"> &nbsp;[Eksplorator](https://github.com/patrykneubauerdev/Eksplorator) &nbsp;[![App Store](https://img.shields.io/badge/Live_on_App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/pl/app/eksplorator/id6744850338)
 
 > Urbex discovery app — find, share, and explore abandoned places around the world.
 
@@ -72,7 +71,7 @@ A community-driven platform for urban explorers. Users browse a map of submitted
 
 ---
 
-### <img src="https://raw.githubusercontent.com/patrykneubauerdev/Foodloop/main/foodloop-repo-assets/foodloop-icon-repo.png" width="24" valign="middle"> &nbsp;[Foodloop](https://github.com/patrykneubauerdev/Foodloop)
+### <img src="https://raw.githubusercontent.com/patrykneubauerdev/Foodloop/main/foodloop-repo-assets/foodloop-icon-repo.png" width="36" valign="middle"> &nbsp;[Foodloop](https://github.com/patrykneubauerdev/Foodloop)
 
 > Restaurant ordering app — browse the menu, pick your table, place your order.
 
