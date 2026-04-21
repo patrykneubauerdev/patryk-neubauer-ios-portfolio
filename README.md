@@ -7,9 +7,9 @@
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patryk-neubauer-264323299)
 &nbsp;
-[![Swift](https://img.shields.io/badge/Swift-F54A2A?style=flat&logo=swift&logoColor=white)](#)
-&nbsp;
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/pl/app/eksplorator/id6744850338)
+&nbsp;
+[![CV](https://img.shields.io/badge/Download_CV-FF6B6B?style=flat&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/patrykneubauerdev/patryk-neubauer-ios-portfolio/main/assets-patryk-neubauer-ios-portfolio/CV_Neubauer_Patryk_ENG.pdf)
 
 </div>
 
@@ -118,7 +118,7 @@ A clean simulation of the in-restaurant ordering experience, built entirely in S
 
 ---
 
-<a href="#"><img src="https://img.shields.io/badge/Download_CV-coming_soon-lightgrey?style=for-the-badge&logo=codeigniter&logoColor=white"></a>
+<a href="https://raw.githubusercontent.com/patrykneubauerdev/patryk-neubauer-ios-portfolio/main/assets-patryk-neubauer-ios-portfolio/CV_Neubauer_Patryk_ENG.pdf"><img src="https://img.shields.io/badge/Download_CV-FF6B6B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"></a>
 
 ---
 
