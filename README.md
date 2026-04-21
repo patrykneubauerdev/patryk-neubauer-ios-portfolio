@@ -44,7 +44,7 @@ A community-driven platform for urban explorers. Users browse a map of submitted
 - 🔐 **Auth with guest mode** - email/password, password reset via Firebase, guest access for App Store compliance
 - 🏚️ **Browse & filter** - sortable grid of community-submitted urbex locations with like/dislike counts
 - 📍 **Location detail** - full photo, GPS coordinates with Google Maps deep-link, active/inactive status
-- ❤️ **Favourites** - save locations with swipe-to-remove gesture
+- ❤️ **Favourites** - save locations and manage them with a swipe-to-remove gesture
 - ➕ **Submit your own** - name, description, city, country, coordinates, photo; capped at 5/day per device
 - 🛡️ **Multi-layer AI moderation** - OpenAI for text, Google Vision API for images
 - 🚩 **Report system** - community flagging for anything that slips through
