@@ -56,7 +56,7 @@ A community-driven platform for urban explorers. Users browse a map of submitted
 <summary><b>Tech stack</b></summary>
 <br>
 
-| | |
+| Technology | Role |
 |---|---|
 | **Swift + SwiftUI** | Full codebase, declarative UI, native animations |
 | **Firebase Auth** | Email/password, guest mode, password reset |
@@ -99,7 +99,7 @@ A clean simulation of the in-restaurant ordering experience built in Swift and S
 <summary><b>Tech stack</b></summary>
 <br>
 
-| | |
+| Technology | Role |
 |---|---|
 | **Swift + SwiftUI** | Full codebase, smooth native animations |
 | **SwiftData** | On-device order history persistence |
