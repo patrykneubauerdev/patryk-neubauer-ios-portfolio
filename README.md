@@ -1,8 +1,7 @@
 <div align="center">
 
 # Patryk Neubauer
----
-### Portfolio
+#### *Portfolio*
 ---
 ### iOS Developer · Swift · SwiftUI
 
