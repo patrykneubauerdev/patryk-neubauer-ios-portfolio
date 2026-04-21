@@ -32,9 +32,9 @@ I build iOS apps in Swift and SwiftUI - clean architecture, thoughtful UX, and a
 A community-driven platform for urban explorers. Users browse a map of submitted locations, view coordinates and photos, save favourites, and contribute their own finds. Shipping a UGC app means content safety is non-negotiable - every submission goes through multiple layers of AI moderation before it ever reaches another user.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/patrykneubauerdev/Eksplorator/main/eksplorator-repo-assets/iphone-screen-eksplorator-04.png" width="220" title="Browse locations">&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/patrykneubauerdev/Eksplorator/main/eksplorator-repo-assets/iphone-screen-eksplorator-05.png" width="220" title="Location detail">&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/patrykneubauerdev/Eksplorator/main/eksplorator-repo-assets/iphone-screen-eksplorator-08.png" width="220" title="Add a location">
+  <img src="https://raw.githubusercontent.com/patrykneubauerdev/Eksplorator/main/eksplorator-repo-assets/iphone-screen-eksplorator-04.png" width="250" title="Browse locations">&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/patrykneubauerdev/Eksplorator/main/eksplorator-repo-assets/iphone-screen-eksplorator-05.png" width="250" title="Location detail">&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/patrykneubauerdev/Eksplorator/main/eksplorator-repo-assets/iphone-screen-eksplorator-08.png" width="250" title="Add a location">
 </p>
 
 <details>
@@ -77,9 +77,9 @@ A community-driven platform for urban explorers. Users browse a map of submitted
 A clean simulation of the in-restaurant ordering experience built in Swift and SwiftUI. You walk in, open the app, choose your table number, browse the menu, and place your order. Menu data loads from a local JSON file - no backend required. Built with full localization in 🇬🇧 English and 🇵🇱 Polish.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/patrykneubauerdev/Foodloop/main/foodloop-repo-assets/iphone-screen-foodloop-01.png" width="220" title="Table selection">&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/patrykneubauerdev/Foodloop/main/foodloop-repo-assets/iphone-screen-foodloop-02.png" width="220" title="Cart">&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/patrykneubauerdev/Foodloop/main/foodloop-repo-assets/iphone-screen-foodloop-04.png" width="220" title="Order history">
+  <img src="https://raw.githubusercontent.com/patrykneubauerdev/Foodloop/main/foodloop-repo-assets/iphone-screen-foodloop-01.png" width="260" title="Table selection">&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/patrykneubauerdev/Foodloop/main/foodloop-repo-assets/iphone-screen-foodloop-02.png" width="260" title="Cart">&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/patrykneubauerdev/Foodloop/main/foodloop-repo-assets/iphone-screen-foodloop-04.png" width="260" title="Order history">
 </p>
 
 <details>
