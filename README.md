@@ -23,18 +23,20 @@ I build iOS apps in Swift and SwiftUI — clean architecture, thoughtful UX, and
 
 ## Projects
 
+> 💡 Click any project title to explore the full repository — source code, screenshots, and full tech breakdown.
+
 ---
 
-### [Eksplorator](https://github.com/patrykneubauerdev/Eksplorator) &nbsp;[![App Store](https://img.shields.io/badge/Live_on_App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/pl/app/eksplorator/id6744850338)
+### <img src="https://raw.githubusercontent.com/patrykneubauerdev/Eksplorator/main/eksplorator-repo-assets/eksplorator-icon-repo.png" width="24" valign="middle"> &nbsp;[Eksplorator](https://github.com/patrykneubauerdev/Eksplorator) &nbsp;[![App Store](https://img.shields.io/badge/Live_on_App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/pl/app/eksplorator/id6744850338)
 
 > Urbex discovery app — find, share, and explore abandoned places around the world.
 
 A community-driven platform for urban explorers. Users browse a map of submitted locations, view coordinates and photos, save favourites, and contribute their own finds. Shipping a UGC app means content safety is non-negotiable — every submission goes through multiple layers of AI moderation before it ever reaches another user.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/patrykneubauerdev/Eksplorator/main/eksplorator-repo-assets/iphone-screen-eksplorator-04.png" width="240" title="Browse locations">&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/patrykneubauerdev/Eksplorator/main/eksplorator-repo-assets/iphone-screen-eksplorator-05.png" width="240" title="Location detail">&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/patrykneubauerdev/Eksplorator/main/eksplorator-repo-assets/iphone-screen-eksplorator-08.png" width="240" title="Add a location">
+  <img src="https://raw.githubusercontent.com/patrykneubauerdev/Eksplorator/main/eksplorator-repo-assets/iphone-screen-eksplorator-04.png" width="220" title="Browse locations">&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/patrykneubauerdev/Eksplorator/main/eksplorator-repo-assets/iphone-screen-eksplorator-05.png" width="220" title="Location detail">&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/patrykneubauerdev/Eksplorator/main/eksplorator-repo-assets/iphone-screen-eksplorator-08.png" width="220" title="Add a location">
 </p>
 
 <details>
@@ -70,16 +72,16 @@ A community-driven platform for urban explorers. Users browse a map of submitted
 
 ---
 
-### [Foodloop](https://github.com/patrykneubauerdev/Foodloop)
+### <img src="https://raw.githubusercontent.com/patrykneubauerdev/Foodloop/main/foodloop-repo-assets/foodloop-icon-repo.png" width="24" valign="middle"> &nbsp;[Foodloop](https://github.com/patrykneubauerdev/Foodloop)
 
 > Restaurant ordering app — browse the menu, pick your table, place your order.
 
 A clean simulation of the in-restaurant ordering experience built in Swift and SwiftUI. You walk in, open the app, choose your table number, browse the menu, and place your order. Menu data loads from a local JSON file — no backend required. Built with full localization in 🇬🇧 English and 🇵🇱 Polish.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/patrykneubauerdev/Foodloop/main/foodloop-repo-assets/iphone-screen-foodloop-01.png" width="240" title="Table selection">&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/patrykneubauerdev/Foodloop/main/foodloop-repo-assets/iphone-screen-foodloop-02.png" width="240" title="Cart">&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/patrykneubauerdev/Foodloop/main/foodloop-repo-assets/iphone-screen-foodloop-04.png" width="240" title="Order history">
+  <img src="https://raw.githubusercontent.com/patrykneubauerdev/Foodloop/main/foodloop-repo-assets/iphone-screen-foodloop-01.png" width="220" title="Table selection">&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/patrykneubauerdev/Foodloop/main/foodloop-repo-assets/iphone-screen-foodloop-02.png" width="220" title="Cart">&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/patrykneubauerdev/Foodloop/main/foodloop-repo-assets/iphone-screen-foodloop-04.png" width="220" title="Order history">
 </p>
 
 <details>
@@ -125,5 +127,5 @@ A clean simulation of the in-restaurant ordering experience built in Swift and S
 ---
 
 <div align="center">
-  <sub>Built with Swift. No shortcuts.</sub>
+  Thanks for stopping by — feel free to reach out! 👋
 </div>
