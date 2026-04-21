@@ -1,5 +1,7 @@
 <div align="center">
 
+# iOS Development Portfolio
+
 # Patryk Neubauer
 ### iOS Developer · Swift · SwiftUI
 
@@ -9,13 +11,13 @@
 &nbsp;
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/pl/app/eksplorator/id6744850338)
 &nbsp;
-[![CV](https://img.shields.io/badge/Download_CV-FF6B6B?style=flat&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/patrykneubauerdev/patryk-neubauer-ios-portfolio/main/assets-patryk-neubauer-ios-portfolio/CV_Neubauer_Patryk_ENG.pdf)
+[![CV / Resume](https://img.shields.io/badge/CV_%2F_Resume-7C3AED?style=flat&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/patrykneubauerdev/patryk-neubauer-ios-portfolio/main/assets-patryk-neubauer-ios-portfolio/CV_Neubauer_Patryk_ENG.pdf)
 
 </div>
 
 ---
 
-I build native iOS apps entirely in Swift — no shortcuts, no bridges. My focus is on clean architecture, thoughtful UX, and solving real problems like content moderation and user trust in UGC apps.
+I build iOS apps in Swift and SwiftUI — clean architecture, thoughtful UX, and a focus on solving real problems. From AI-driven content moderation to real-time databases, I work with whatever the project calls for.
 
 ---
 
@@ -72,7 +74,7 @@ A community-driven platform for urban explorers. Users browse a map of submitted
 
 > Restaurant ordering app — browse the menu, pick your table, place your order.
 
-A clean simulation of the in-restaurant ordering experience, built entirely in Swift with zero external dependencies. You walk in, open the app, choose your table number, browse the menu, and place your order. Menu data loads from a local JSON file — no backend required. Built with full localization in 🇬🇧 English and 🇵🇱 Polish.
+A clean simulation of the in-restaurant ordering experience built in Swift and SwiftUI. You walk in, open the app, choose your table number, browse the menu, and place your order. Menu data loads from a local JSON file — no backend required. Built with full localization in 🇬🇧 English and 🇵🇱 Polish.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/patrykneubauerdev/Foodloop/main/foodloop-repo-assets/iphone-screen-foodloop-01.png" width="220" title="Table selection">&nbsp;&nbsp;&nbsp;
@@ -113,12 +115,12 @@ A clean simulation of the in-restaurant ordering experience, built entirely in S
 ## Contact
 
 ✉️ [patrykneubauerdev@gmail.com](mailto:patrykneubauerdev@gmail.com)
-&nbsp;&nbsp;·&nbsp;&nbsp;
+
 💼 [linkedin.com/in/patryk-neubauer-264323299](https://www.linkedin.com/in/patryk-neubauer-264323299)
 
 ---
 
-<a href="https://raw.githubusercontent.com/patrykneubauerdev/patryk-neubauer-ios-portfolio/main/assets-patryk-neubauer-ios-portfolio/CV_Neubauer_Patryk_ENG.pdf"><img src="https://img.shields.io/badge/Download_CV-FF6B6B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"></a>
+<a href="https://raw.githubusercontent.com/patrykneubauerdev/patryk-neubauer-ios-portfolio/main/assets-patryk-neubauer-ios-portfolio/CV_Neubauer_Patryk_ENG.pdf"><img src="https://img.shields.io/badge/Download_CV_%2F_Resume-7C3AED?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"></a>
 
 ---
 
