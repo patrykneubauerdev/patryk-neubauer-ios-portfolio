@@ -1,9 +1,11 @@
 <div align="center">
 
 # Patryk Neubauer
-### iOS Developer · Swift · Firebase · AI Integration
+### iOS Developer · Swift · SwiftUI
 
 [![Email](https://img.shields.io/badge/patrykneubauerdev%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:patrykneubauerdev@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patryk-neubauer-264323299)
 &nbsp;
 [![Swift](https://img.shields.io/badge/Swift-F54A2A?style=flat&logo=swift&logoColor=white)](#)
 &nbsp;
@@ -111,6 +113,12 @@ A clean simulation of the in-restaurant ordering experience, built entirely in S
 ## Contact
 
 ✉️ [patrykneubauerdev@gmail.com](mailto:patrykneubauerdev@gmail.com)
+&nbsp;&nbsp;·&nbsp;&nbsp;
+💼 [linkedin.com/in/patryk-neubauer-264323299](https://www.linkedin.com/in/patryk-neubauer-264323299)
+
+---
+
+<a href="#"><img src="https://img.shields.io/badge/Download_CV-coming_soon-lightgrey?style=for-the-badge&logo=codeigniter&logoColor=white"></a>
 
 ---
 
