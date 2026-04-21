@@ -1,7 +1,7 @@
 <div align="center">
 
-# Patryk Neubauer
-## *Portfolio*
+# *Portfolio*
+## Patryk Neubauer
 ---
 ### iOS Developer · Swift · SwiftUI
 
