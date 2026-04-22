@@ -5,7 +5,7 @@
 
 [![Email](https://img.shields.io/badge/patrykneubauerdev%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:patrykneubauerdev@gmail.com)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patryk-neubauer-264323299)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patryk-neubauer)
 &nbsp;
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/pl/app/eksplorator/id6744850338)
 &nbsp;
@@ -116,7 +116,7 @@ A clean simulation of the in-restaurant ordering experience built in Swift and S
 
 ✉️ [patrykneubauerdev@gmail.com](mailto:patrykneubauerdev@gmail.com)
 
-💼 [linkedin.com/in/patryk-neubauer-264323299](https://www.linkedin.com/in/patryk-neubauer-264323299)
+💼 [linkedin.com/in/patryk-neubauer-264323299](https://www.linkedin.com/in/patryk-neubauer)
 
 ---
 
