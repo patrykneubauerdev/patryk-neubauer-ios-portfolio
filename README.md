@@ -116,7 +116,7 @@ A clean simulation of the in-restaurant ordering experience built in Swift and S
 
 ✉️ [patrykneubauerdev@gmail.com](mailto:patrykneubauerdev@gmail.com)
 
-💼 [linkedin.com/in/patryk-neubauer-264323299](https://www.linkedin.com/in/patryk-neubauer)
+💼 [linkedin.com/in/patryk-neubauer](https://www.linkedin.com/in/patryk-neubauer)
 
 ---
 
